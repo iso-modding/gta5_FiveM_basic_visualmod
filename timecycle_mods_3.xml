@@ -1,0 +1,1753 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<timecycle_modifier_data version="1.000000"> 
+<modifier name="RemoteSniper" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="V_Office_smoke" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="V_Office_smoke_ext" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="V_FIB_IT3" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="V_FIB_IT3_alt" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="V_FIB_stairs" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_abattoir" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="V_Abattoir_Cold" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_recycle" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_strip3" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_strpchangerm" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_jewel2" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_foundry" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="V_Metro_station" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_metro" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="V_Metro2" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_torture" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_sweat" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_sweat_entrance" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_sweat_NoDirLight" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="Barry1_Stoned" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_rockclub" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_michael" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_michael_lounge" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_janitor" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_amb_mult_large" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_extlight_large" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="ext_int_extlight_large" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_extlight_small" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_extlight_small_clipped" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_extlight_large_fog" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_extlight_small_fog" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_extlight_none" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_extlight_none_dark" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_extlight_none_dark_fog" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_extlight_none_fog" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_clean_extlight_large" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_clean_extlight_small" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_clean_extlight_none" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="prologue" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="vagos_extlight_small" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="FinaleBank" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="FinaleBankMid" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_cashdepot" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="V_Solomons" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_methlab_small" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_Lost_small" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_Lost_none" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_ControlTower_small" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_ControlTower_none" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_dockcontrol_small" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_hanger_small" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_hanger_none" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_cluckinfactory_small" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_cluckinfactory_none" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_FranklinAunt_small" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="stc_franklinsHouse" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="stc_coroners" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="stc_trevors" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="stc_deviant_lounge" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="stc_deviant_bedroom" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_carshowroom" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_Farmhouse_small" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_Farmhouse_none" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_carmod_small" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="SP1_03_drawDistance" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_clotheslow_large" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="v_bahama" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="gunclub" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_GasStation" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="PoliceStation" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="PoliceStationDark" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="Shop247" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="Shop247_none" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="Hicksbar" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="cBank_back" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="cBank_front" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_office_Lobby" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_office_LobbyHall" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="SheriffStation" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="LifeInvaderLOD" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_motelroom" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="metro" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_ClothesHi" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="FIB_5" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_chopshop" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_tattoo" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="gunstore" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_Hospital_Blue" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="FIB_6" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="FIB_B" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="FIB_A" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="lab_none" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="lab_none_dark" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="lab_none_dark_fog" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="MP_Garage_L" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="MP_Studio_Lo" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="StadLobby" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="Hanger_INTmods" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="MPApartHigh" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_Hospital_BlueB" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_tunnel_none_dark" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="MP_lowgarage" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="MP_MedGarage" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="shades_yellow" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="shades_pink" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="Mp_apart_mid" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="yell_tunnel_nodirect" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_carrier_hanger" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_carrier_stair" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_carrier_rear" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_carrier_control" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="int_carrier_control_2" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="AP1_01_C_NoFog" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="AP1_01_B_IntRefRange" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="rply_saturation" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="rply_saturation_neg" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="rply_vignette" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="rply_vignette_neg" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="rply_contrast" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="rply_contrast_neg" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="rply_brightness" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="rply_brightness_neg" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="rply_motionblur" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+<modifier name="V_CIA_Facility" numMods="12" userFlags="0">
+ <fog_col_a>1.000 1.000</fog_col_a>
+ <fog_col_b>0.247 1.000</fog_col_b>
+ <fog_col_g>0.204 0.204</fog_col_g>
+ <fog_col_r>0.153 0.153</fog_col_r>
+ <fog_density>0.500 0.500</fog_density>
+ <fog_falloff>255.000 255.000</fog_falloff>
+ <light_amb_down_wrap>0.000 0.000</light_amb_down_wrap>
+ <light_ray_col_b>0.204 0.204</light_ray_col_b>
+ <light_ray_col_g>1.000 1.000</light_ray_col_g>
+ <light_ray_col_r>0.247 1.000</light_ray_col_r>
+<ped_light_mult>0.200 1.000</ped_light_mult>
+ <fog_start>10.000 10.000</fog_start>
+ </modifier>
+</timecycle_modifier_data>
