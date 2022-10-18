@@ -1,6 +1,9 @@
 
 		Discord server - isotonic @ https://discord.gg/esCh2hktSd - EVCO lights mod (Evenly colored)
 
+		
+		
+
 		Basic visual mod for FiveM
 		All timecycles mods been modified to same values so is easy to spot changes
 		w_clear.xml been modified to set a specific look that's easy to deviate from and customize
@@ -8,11 +11,12 @@
 		Most street lights props were modified to white color and lowered the intensity  
 
 		How to use:
-		Add the extracted folder files to your server config or place it on the right directory
-		For me, using QBCore, the structure looks like this: modding_server\resources\[standalone]\tcmods\
-		Restart the server and check resources page/logs see if the mod is loaded
-		If is loaded, press f8 to access the console on FiveM and write "weather clear" (no quotes)
-		You should see the new look without it except for the water which will get very smooth right after the command
+		1. Add the extracted folder files to your server config or place it on the right directory
+		2. Extract "stream" folder, I cant upload 800+ files here.
+		3. For me, using QBCore, the structure looks like this: modding_server\resources\[standalone]\tcmods\
+		4. Restart the server and check resources page/logs see if the mod is loaded
+		5. If is loaded, press f8 to access the console on FiveM and write "weather clear" (no quotes)
+		6. You should see the new look without it except for the water which will get very smooth right after the command
 		
 		How to customize it ?
 		First you need know what area in the city you want to modify
